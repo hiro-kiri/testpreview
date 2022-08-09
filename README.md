@@ -1,7 +1,7 @@
 # testpreview
 
 
-```plantuml
+```puml
 @startuml
 bob -> alice
 @enduml
